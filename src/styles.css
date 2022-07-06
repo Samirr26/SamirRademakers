@@ -1,0 +1,23 @@
+@import url('//fonts.cdnfonts.com/css/boomer-tantrum');
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  background-image: url(./resources/windowsxpwallpaper.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Segoe UI Light', Segoe UI, sans-serif;
+
+
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+
+
+/*html, body { height: 100%; }*/
+/*body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }*/
